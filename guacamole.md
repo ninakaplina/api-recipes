@@ -5,4 +5,5 @@
 * salt
 * paprika
 ### Instructions
+Peel the avocados.
 Mash it all together.
